@@ -16,7 +16,10 @@
         "pxt-lantern": "github:riknoll/pxt-lantern#master",
         "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.2.0",
         "Sprite Grid": "github:microsoft/arcade-grid#v1.3.0",
-        "pxt-sight": "github:felixtsu/pxt-sight#master"
+        "pxt-sight": "github:felixtsu/pxt-sight#master",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "Sprite Walls": "github:Sonicblaston62/Sprite-Walls#a9d1f220a64744b4c30dace32b4c2c032126ea86",
+        "pxt-mini-menu-cursor": "github:WoofWoofCodes/pxt-mini-menu-cursor#v0.0.2"
     },
     "files": [
         "main.blocks",
@@ -30,7 +33,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.58",
+        "target": "2.0.48",
         "targetId": "arcade"
     },
     "supportedTargets": [
